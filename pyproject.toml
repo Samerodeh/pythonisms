@@ -1,0 +1,17 @@
+[tool.poetry]
+name = "pythonisms"
+version = "0.1.0"
+description = ""
+authors = ["Samer Odeh <samerodeh220@gmail.com>"]
+
+[tool.poetry.dependencies]
+python = "^3.9"
+pytest = "^6.2.5"
+
+[tool.poetry.dev-dependencies]
+black = {version = "^21.9b0", allow-prereleases = true}
+flake8 = {version = "^3.9.2", allow-prereleases = true}
+
+[build-system]
+requires = ["poetry-core>=1.0.0"]
+build-backend = "poetry.core.masonry.api"
