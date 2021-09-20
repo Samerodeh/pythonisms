@@ -24,3 +24,5 @@
 * add ability for custom data structure to be considered truthy/falsy
 
 **Anything else that catches your interest**
+
+## PR LINK : https://github.com/Samerodeh/pythonisms/pull/1
